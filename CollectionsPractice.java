@@ -44,10 +44,12 @@ public class CollectionsPractice {
 			}
 			
 		}
+		System.out.println("Hello");
 		
 	}
 
 }
+
 class Studentdetails{
 	int studentId;
 	String studentName;
